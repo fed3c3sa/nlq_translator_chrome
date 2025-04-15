@@ -1,0 +1,1 @@
+# nlq_translator_chrome
