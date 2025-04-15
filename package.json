@@ -1,0 +1,25 @@
+{
+  "name": "nlq-translator-chrome-extension",
+  "version": "1.0.0",
+  "description": "A Chrome extension that translates natural language queries into Elasticsearch queries",
+  "main": "js/popup.js",
+  "scripts": {
+    "build-icons": "node create_icons.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/nlq-translator-chrome-extension.git"
+  },
+  "keywords": [
+    "elasticsearch",
+    "chrome-extension",
+    "natural-language",
+    "query-translator"
+  ],
+  "author": "NLQ Translator Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/nlq-translator-chrome-extension/issues"
+  },
+  "homepage": "https://github.com/yourusername/nlq-translator-chrome-extension#readme"
+}
