@@ -16,12 +16,11 @@ A Chrome extension that translates natural language queries into Elasticsearch q
 *(Coming soon)*
 
 ### Manual Installation
-1. Download the latest release from the [Releases](https://https://github.com/fed3c3sa/nlq_translator_chrome) page
-2. Unzip the downloaded file
-3. Open Chrome and navigate to `chrome://extensions/`
-4. Enable "Developer mode" by toggling the switch in the top right corner
-5. Click "Load unpacked" and select the unzipped extension directory
-6. The extension icon should now appear in your browser toolbar
+1. Clone the repo
+2. Open Chrome and navigate to `chrome://extensions/`
+3. Enable "Developer mode" by toggling the switch in the top right corner
+4. Click "Load unpacked" and select the unzipped extension directory
+5. The extension icon should now appear in your browser toolbar
 
 ## Usage
 
